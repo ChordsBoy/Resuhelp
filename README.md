@@ -1,4 +1,4 @@
-This is my first [Next.js](https://nextjs.org/) project - a job resume helper/tracker to automatically update your resumes to match job descriptions so people can actually land a job in the tech field. Also, by people, I mean me B)))
+This is my first [Next.js](https://nextjs.org/) project - a job resume helper/tracker to automatically update your resumes to match job descriptions so people can actually land a job in the web development field. Also, by people, I mean me B)))
 
 ## Getting Started
 
